@@ -7,5 +7,5 @@ This is a simple calculator application built with Java. It supports basic opera
 - Division
 
 
-[![Java CI](https://github.com/perdix/Testing/actions/workflows/ci.yml/badge.svg)](https://github.com/perdix/Testing/actions/workflows/ci.yml)
+[![Java CI](https://github.com/frankookeci/actions/workflows/ci.yml/badge.svg)](https://github.com/frankookeci/Testing/actions/workflows/ci.yml)
 
