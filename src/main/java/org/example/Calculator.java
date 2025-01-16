@@ -1,10 +1,10 @@
 package org.example;
 
 public class Calculator {
-        public int add(int a, int b) {
-            return a + b;
+    public int add(int a, int b) {
+        return a + b;
+    }
 
-        }
     public int multiply(int a, int b) {
         return a * b;
     }
@@ -18,4 +18,8 @@ public class Calculator {
         return a / b;
     }
 
+    public double squareRoot(double a) {
+        if (a < 0) throw new IllegalArgumentException("Cannot calculate square root of a negative number");
+        return Math.sqrt(a);
     }
+}
