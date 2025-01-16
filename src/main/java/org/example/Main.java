@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Subtraction: " + calculator.subtract(10, 5));
         System.out.println("Multiplication: " + calculator.multiply(10, 5));
         System.out.println("Division: " + calculator.dividieren(10, 5));
+        System.out.println("Square Root: " + calculator.squareRoot(25));
     }
 }
